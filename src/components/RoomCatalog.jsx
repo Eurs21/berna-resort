@@ -76,9 +76,9 @@ const RoomCatalog = () => {
                   ))}
                 </div>
 
-                <button className="w-full bg-[#0077B6] text-white py-3 rounded-xl font-bold hover:bg-blue-700 transition active:scale-95">
+                <a href="#booking-form" className="block text-center bg-[#0077B6] text-white py-3 rounded-xl font-bold hover:bg-blue-700 transition active:scale-95">
                   Check Availability
-                </button>
+                </a>
               </div>
             </div>
           ))}
