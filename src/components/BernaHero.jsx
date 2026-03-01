@@ -33,10 +33,6 @@ const BernaHero = () => {
           Experience affordable beachfront relaxation at Bernabeach Resort.
         </p>
 
-        <a href="#booking-form" className="bg-white text-[#0077B6] px-8 py-3 rounded-full font-bold hover:bg-slate-100 transition inline-block mb-12">
-          Check Availability
-        </a>
-
         {/* 2. --- DIRECT BOOKING FORM --- */}
         <form 
           id="booking-form"
